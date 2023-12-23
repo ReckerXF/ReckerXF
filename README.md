@@ -14,3 +14,19 @@ My name is Michael and I am a hobbyist backend software developer! You'll find m
 ***
 ### 🏢 Dream Job?
 My dream job is to become a DevOps Engineer where I can assist a development team with systems administration, setting up pipelines and containers, programming, and etc. I thoroughly enjoy tinkering with systems in my free time hence my knowledge in VMWare, Debian, and Ubuntu, and would love to translate this to a paying job!
+***
+### Notable Projects
+#### 1. [InvisionSync](https://github.com/Blizzard098/InvisionSync)
+![C#](https://camo.githubusercontent.com/09cec762105de8172bab7e4d6bda87a5d92fcfac47689fff9e7f2b2e604ca4ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373686172702d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d637368617270266c6f676f436f6c6f723d343437394131) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+
+InvisionSync is an addon for the GTA 5 modification framework FiveM which allows server owners to synchronize their permissions from their Invision Community forum software to the server itself. As an example, someone who holds an Admin rank on the forum may receive an admin rank in game. The addon utilizes the Invision Community REST API to check the individual's forum group based on the profile field "Steam Hex" and sets their in-game permissions accordingly. InvisionSync is completely free and open sourced, allowing anyone to make modifications as they please.
+
+#### 2. [TS3 Queue Bot](https://github.com/Blizzard098/ts3-queue-bot)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+The Teamspeak 3 Queue Bot was originally a private project for an online gaming community. The purpose of this teamspeak bot is to queue users to join a channel that is already full. The bot features an assortment of features including the ability to exclude people in the channel from the queue based on their servergroups, and also offers the ability for those whose teamspeak clients crash to rejoin the queue (AKA a "recovery" option). The queue bot utilizes Redis for caching and storing data. While the queue bot is open sourced, it is **unmaintained** at this time and there may be errors upon running the bot for the first time.
+
+#### 3. ixEmplacements
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+ixEmplacements is a plugin for the Helix framework within Garry's Mod that was done as a commission in late 2023. It utilizes an assembly and disassembly system; requiring the appropriate items to be in the player's inventory before assembling and disassembling the emplacement. Emplacements are saved, allowing them to remain in place beyond a server restart.
