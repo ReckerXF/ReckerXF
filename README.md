@@ -29,4 +29,4 @@ The Teamspeak 3 Queue Bot was originally a private project for an online gaming 
 #### 3. ixEmplacements
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-ixEmplacements is a plugin for the Helix framework within Garry's Mod that was done as a commission in late 2023. It utilizes an assembly and disassembly system; requiring the appropriate items to be in the player's inventory before assembling and disassembling the emplacement. Emplacements are saved, allowing them to remain in place beyond a server restart.
+ixEmplacements is a plugin for the Helix framework within Garry's Mod that was done as a commission in late 2023. It utilizes an assembly and disassembly system for [Gredwitch's Emplacements](https://steamcommunity.com/sharedfiles/filedetails/?id=1391460275); requiring the appropriate items to be in the player's inventory before assembling and disassembling the emplacement. Emplacements are saved, allowing them to remain in place beyond a server restart.
