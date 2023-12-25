@@ -12,9 +12,6 @@ My name is Michael and I am a hobbyist backend software developer! You'll find m
 ### 🌱 I am currently learning...
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ***
-### 🏢 Dream Job?
-My dream job is to become a DevOps Engineer where I can assist a development team with systems administration, setting up pipelines and containers, programming, and etc. I thoroughly enjoy tinkering with systems in my free time hence my knowledge in VMWare, Debian, and Ubuntu, and would love to translate this to a paying job!
-***
 ### Notable Projects
 #### 1. [InvisionSync](https://github.com/Blizzard098/InvisionSync)
 ![C#](https://camo.githubusercontent.com/09cec762105de8172bab7e4d6bda87a5d92fcfac47689fff9e7f2b2e604ca4ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373686172702d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d637368617270266c6f676f436f6c6f723d343437394131) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
